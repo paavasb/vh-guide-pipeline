@@ -95,7 +95,8 @@ Showers will be provided at our venue on Saturday afternoon on each floor. Signu
 
 # <a name="opening-ceremony"></a>Opening Ceremony
 
-Opening ceremony will be held at [Langford Auditorium](https://goo.gl/maps/JXk7dR27UZ22). You’ll hear from our sponsors and get all of the logistics for the weekend. We’ll cover what a hackathon is, how to get the most out of your weekend, prizes, mentors, and hardware. By the end of the opening ceremony, you’ll have everything you need to get hacking!
+Opening ceremony will be held at [Langford Auditorium](https://goo.gl/maps/JXk7dR27UZ22). You’ll hear from our sponsors and get all of the logistics for the weekend. We’ll cover what a hackathon is, how to get the most out of your weekend, prizes, mentors, and hardware. There will also be some amazing live music!
+By the end of the opening ceremony, you’ll have everything you need to get hacking!
 
 # <a name="closing-ceremony"></a>Closing Ceremony
 
