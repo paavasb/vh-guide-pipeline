@@ -87,7 +87,7 @@ A list of available hardware can be found [here](https://hardware.mlh.io).
 
 # <a name="sleeping-eating-&-showering"></a>Sleeping, Eating, & Showering
 
-We will have sleeping rooms (434 for females, 462 for males) on the fourth floor of the building with sleeping bags, so bring along a pillow!
+We will have sleeping rooms (434 and 462) on the fourth floor of the building with sleeping bags, so bring along a pillow!
 
 Free food and drink will be provided. If you have any dietary restrictions, please confirm with an organizer or volunteer before getting meals. Those with dietary restrictions will eat first, so please be there early if you need special accommodation.
 
@@ -115,7 +115,7 @@ You have a project, mock up, slide deck, demo, anything! You will be submitting 
 
 # <a name="presenting-your-project"></a>Presenting Your Project
 
-After everyone has submitted their project, you will get a chance to present yours during the expo round! The expo will take place in the Wond’ry starting at 10:00 AM on Sunday. Your team will be assigned a table number, so make sure you get to your table early so that you can smooth out any technical difficulties. We’ll have power strips ready for you, but be sure to have a demo and your pitch planned out. If you’re not sure how to demo, don’t worry! We’ll be hosting a "How To Demo" talk from 9-10 AM Sunday teaching you how to present your project to judges and other hackers.
+After everyone has submitted their project, you will get a chance to present yours during the expo round! The expo will take place in the Wond’ry starting at 10:00 AM on Sunday. Your team will be assigned a table number, so make sure you get to your table early so that you can smooth out any technical difficulties. We’ll have power strips ready for you, but be sure to have a demo and your pitch planned out. If you’re not sure how to demo, don’t worry! We’ll be hosting a "How To Demo" talk from 9-10 AM Sunday, in the lounge at the 3rd floor of The Wond'ry, teaching you how to present your project to judges and other hackers.
 
 In order to encourage people to check out other teams’ projects, we require that only one team member be at the table each time. Walk around, check out other projects, and ask them questions! Plan with your team how you want to rotate shifts. If your presentation absolutely needs more than one member at a time, please talk to an organizer first.
 
